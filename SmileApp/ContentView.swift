@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Image(systemName: "smiley")
+        Image(systemName: "speaker.fill")
             .resizable()
             .foregroundColor(/*@START_MENU_TOKEN@*/.green/*@END_MENU_TOKEN@*/)
             .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
